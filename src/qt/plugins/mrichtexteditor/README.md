@@ -9,3 +9,5 @@ The icons used are standard icons from theme as defined by [freedesktop.org Icon
 The editor automatically converts plain text http(s) links and emails to html links in toHtml().
 
 Courtesy of [Hobrasoft](http://www.hobrasoft.cz/).
+
+<!-- Auto-update: 2025-10-18T13:34:40.831491 -->
